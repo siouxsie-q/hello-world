@@ -1,3 +1,3 @@
 # hello-world
-My favorite actor?
+My favorite actor:
 Keanu Reeves
