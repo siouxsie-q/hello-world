@@ -1,3 +1,3 @@
 # hello-world
-My first repository?
-Keanu Reeves is awesome.
+My favorite actor:
+Keanu Reeves
